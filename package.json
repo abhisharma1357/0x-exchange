@@ -1,0 +1,15 @@
+{
+  "name": "0xprotocol",
+  "version": "1.0.0",
+  "description": "smart contracts 0x implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "0x.js": "^6.0.3",
+    "ethers": "^4.0.26"
+  }
+}
